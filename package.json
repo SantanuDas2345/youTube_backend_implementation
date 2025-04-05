@@ -1,0 +1,19 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "for knowledge purpose",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Morphin",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
+}
